@@ -2,15 +2,15 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
 
 # Welcome to my repository 💕
 
-## My skills
-- Java
-- Python
-- Github
+## My IT skills 😎
+- Java - have been studying Java for 3 weeks
+- Python - have been studying Python for 3 weeks
+- Github - I used Github for the first time today
 
-## My major projects 👌
-1. Java online banking app
-2. Python AI tool
-3. My own social network
+## What I have learned so far? 👌
+1. Java - data types, statements, conditions
+2. Python - data types, statements
+3. Using ChatGPT and Github
 
 ## My favorite part of code
 ```java
